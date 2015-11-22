@@ -1,6 +1,6 @@
 <?php
 
-class GridFieldConfig_FlexiAddresses extends GridFieldConfig {
+class GridFieldConfig_FlexiPhones extends GridFieldConfig {
 
 	/**
 	 * @param $enabled_fields
