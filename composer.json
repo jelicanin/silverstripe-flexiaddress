@@ -16,7 +16,7 @@
   },
   "require": {
     "silverstripe/framework": "~3.0",
-    "silverstripe-australia/gridfieldextensions": "*"
+    "symbiote/silverstripe-gridfieldextensions": "^1.4"
   },
   "suggest": {
     "briceburg/silverstripe-flexifields": "Useful additional fields, including an improved USStateDropdownField for State selection."
